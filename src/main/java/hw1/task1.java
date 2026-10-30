@@ -1,4 +1,4 @@
-package src.main.java;
+package hw1;
 
 public class task1 {
     public void sort(int[] arr) {
